@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 02AD-683B
+
+ Directory of C:\Users\John\Desktop\MyFolder
+
+10/07/2022  15:24    <DIR>          .
+10/07/2022  15:24    <DIR>          ..
+10/07/2022  15:24                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  29,621,960,704 bytes free
